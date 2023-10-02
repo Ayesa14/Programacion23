@@ -1,8 +1,6 @@
 # Boletines Programación 1ªEvaluación
 
-## Tarea Inicial
-
-[Prueba de Moodle]((https://github.com/Ayesa14/Programacion23/blob/main/boletin%20inicial/TAREFA%20INICIAL%20PROBA%20MOODLE(1).odt)
+## [Tarea Inicial](https://github.com/Ayesa14/Programacion23/tree/main/boletin%20inicial)
 
 ## Tareas Teóricas
 
@@ -60,7 +58,7 @@
 
 2. [Boletin Extra 1](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra1)
 
-    - [Boletin Extra 1_1](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra1/         BolExtra1_1/src/bolextra1_1)
+    - [Boletin Extra 1_1](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra1/BolExtra1_1/src/bolextra1_1)
 
     - [Boletin Extra 1_2](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra1/BolExtra1_2/src/bolextra1_2)
 
