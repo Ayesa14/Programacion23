@@ -52,6 +52,8 @@
 
     - [Ordinograma](https://github.com/Ayesa14/Programacion23/blob/main/Boletin3/Boletin3_2/Boletin3_5.pdf)
 
+## [Boletin 4](https://github.com/Ayesa14/Programacion23/tree/main/Boletin04)
+
 ## [Boletines Extras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras)
 
 1. [Boletin Extra](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra)
