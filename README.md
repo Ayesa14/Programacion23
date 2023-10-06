@@ -54,6 +54,8 @@
 
 ## [Boletin 4](https://github.com/Ayesa14/Programacion23/tree/main/Boletin04)
 
+## [Boletin 5](https://github.com/Ayesa14/Programacion23/tree/main/Boletin05)
+
 ## [Boletines Extras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras)
 
 1. [Boletin Extra](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra)
