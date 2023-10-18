@@ -1,4 +1,4 @@
-# Boletín 4
+# Boletín Extra 4
 
     Escribe unha clase Conta para representar unha conta bancaria. Os datos da conta son:
     atributos : nome do cliente ( String), número de conta ( String) tipo de interese ( double) e saldo ( double).
