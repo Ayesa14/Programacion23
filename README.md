@@ -56,6 +56,14 @@
 
 ## [Boletin 5](https://github.com/Ayesa14/Programacion23/tree/main/Boletin05)
 
+## [Boletin 6](https://github.com/Ayesa14/Programacion23/tree/main/Boletin06)
+
+1. [Boletin 6_1](https://github.com/Ayesa14/Programacion23/tree/main/Boletin06/Boletin6_1/src/boletin6_1)
+
+2. [Boletin 6_2](https://github.com/Ayesa14/Programacion23/tree/main/Boletin06/Boletin6_2/src/boletin6_2)
+
+3. [Boletin 6_3](https://github.com/Ayesa14/Programacion23/tree/main/Boletin06/Boletin6_3/src/boletin6_3)
+
 ## [Boletines Extras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras)
 
 1. [Boletin Extra](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra)
@@ -76,7 +84,7 @@
 
     - [Boletin Extra 3_2](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra3/BolExtra3_2/src/bolextra3_2)
 
-
+5. [Boletin Extra 4](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras/BoletinExtra4)
 
 
 
