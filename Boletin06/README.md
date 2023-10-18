@@ -1,6 +1,6 @@
-## Boletin 6
+# Boletin 6
 
-# Boletin6_1
+## Boletin6_1
     Temos a seguinte clase Coche:
 
     public class Coche {
@@ -20,7 +20,7 @@
 
     Crea a clase Boletin 6_1 para comprobar que o programa se executa ben .dandolle os valores que precises.
 
-# Boletin 6_2
+## Boletin 6_2
 
     A seguinte clase ten problemas de compilación . Corríxeos e ,de seguido, implementa unha clase principal ( Boletin 6₂ ), co metodo main() para testear e verificar os métodos da clase Satelite.
 
@@ -47,7 +47,7 @@
     System.out.println (“ o satelite atopase  no paralelo “ paralelo + “meridiano ” + meridiano “ a unha distancia da terra “ +“ distanciaTerra )
 
 
-# Boletin 6_3
+## Boletin 6_3
 
     Implementa unha aplicación que nos permita traballar con circulos e circunferencias .Para eso crea a clase Circulo cas seguintes características :
 
