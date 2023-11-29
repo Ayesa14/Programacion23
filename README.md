@@ -6,6 +6,18 @@
 
 1. [Tarea teórica 1](https://github.com/Ayesa14/Programacion23/blob/main/tareaTeorica1/TAREFA%20TEORICA%201.pdf)
 
+## [Boletines teóricos](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos)
+
+1. [Boletin Teorico13](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeorico13)
+
+2. [Boletin Teorico Atributos](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoAtributos)
+
+3. [Boletin Teorico Estructuras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoEstructuras)
+
+4. [Boletin Teorico Métodos](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoMetodos)
+
+5. [Boletin Teorico Paquetes](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoPaquetes)
+
 ## [Boletin 1](https://github.com/Ayesa14/Programacion23/tree/main/Boletin1)
 
 ## [Boletin 2](https://github.com/Ayesa14/Programacion23/blob/main/Boletin2/README.md)
@@ -81,6 +93,50 @@
 1. [Boletin 8_6](https://github.com/Ayesa14/Programacion23/tree/main/Boletin08/Boletin8_6/src/boletin8_6)
 
 2. [Boletin 8_7](https://github.com/Ayesa14/Programacion23/tree/main/Boletin08/Boletin8_7/src/boletin8_7)
+
+## [Boletin 9](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09)
+
+1. [Boletin 9_1](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09/Boletin9_1/src/boletin9_1)
+
+2. [Boletin 9_2](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09/Boletin9_2/src/boletin9_2)
+
+3. [Boletin 9_3](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09/Boletin9_3/src/boletin9_3)
+
+4. [Boletin 9_4](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09/Boletin9_4/src/boletin9_4)
+
+5. [Boletin 9_5](https://github.com/Ayesa14/Programacion23/tree/main/Boletin09/Boletin9_5/src/boletin9_5)
+
+## [Boletin 11](https://github.com/Ayesa14/Programacion23/tree/main/Boletin11/Boletin11/src/boletin11)
+
+## [Boletin 12](https://github.com/Ayesa14/Programacion23/tree/main/Boletin12/Boletin12/src/boletin12)
+
+## [Boletin 14](https://github.com/Ayesa14/Programacion23/tree/main/Boletin14)
+
+## [Boletin 16](https://github.com/Ayesa14/Programacion23/tree/main/Boletin16/Boletin16/src/boletin16)
+
+## [Boletin 17](https://github.com/Ayesa14/Programacion23/tree/main/Boletin17/Boletin17/src)
+
+## [Boletin Repaso Repetitivas](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas)
+
+1. [BRR 1](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso1/src/boletinrepaso1)
+
+2. [BRR 2](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso2/src/boletinrepaso2)
+
+3. [BRR 3](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso3/src/boletinrepaso3)
+
+4. [BRR 4](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso4/src/boletinrepaso4)
+
+5. [BRR 5](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso5/src/boletinrepaso5)
+
+6. [BRR 6](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso6/src/boletinrepaso6)
+
+7. [BRR 7](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso7/src/boletinrepaso7)
+
+8. [BRR 8](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso8/src/boletinrepaso8)
+
+9. [BRR 9](https://github.com/Ayesa14/Programacion23/tree/main/BoletinRepasoRepetitivas/BoletinRepaso9/src/boletinrepaso9)
+
+## [Tarea Paquetes](https://github.com/Ayesa14/Programacion23/tree/main/TareaPaquetes)
 
 ## [Boletines Extras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesExtras)
 
