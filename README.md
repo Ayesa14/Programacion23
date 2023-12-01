@@ -18,6 +18,8 @@
 
 5. [Boletin Teorico Paquetes](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoPaquetes)
 
+6. [Boletin Teorico Repaso Estructuras](https://github.com/Ayesa14/Programacion23/tree/main/BoletinesTeoricos/BolTeoricoRepasoEstructuras)
+
 ## [Boletin 1](https://github.com/Ayesa14/Programacion23/tree/main/Boletin1)
 
 ## [Boletin 2](https://github.com/Ayesa14/Programacion23/blob/main/Boletin2/README.md)
